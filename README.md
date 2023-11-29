@@ -40,4 +40,7 @@ overfitting. You could use statistical tests to make this determination.
 ## Submission
 
 Add your report and code to this repository. Bonus points if you can set up a
-Github action to automatically run the code and generate the report!
+Github action to automatically run the code and generate the report!  
+  
+  
+My report is in the pdf file "Alg_Select_Report.pdf" and not in the RoughDraftReport.ipynb
